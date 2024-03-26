@@ -1,5 +1,8 @@
 import time
 
+print("New conflict line")
+a, b = 3, 7
+
 
 def introduction():
     print("Добро пожаловать в подземелье! Ты отважился войти в темные глубины, где могут произойти ужасные вещи.")
