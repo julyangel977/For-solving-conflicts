@@ -75,6 +75,3 @@ def dungeon_quest():
 
 if __name__ == "__main__":
     dungeon_quest()
-
-print("Conflict line")
-
